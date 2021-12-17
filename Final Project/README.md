@@ -17,4 +17,6 @@
 + Bộ dữ liệu: Crawl data trên 1 video nào đó trên Youtube
 + Ngôn ngữ sử dụng: Tiếng Anh
 
-**Đánh giá mô hình: Dựa vào 4 thông số bao gồm: accuracy, precision, recall, F1-score**
+**Mục tiêu: Mục tiêu đặt ra của bài toán là xây dựng một bộ dữ liệu các bình luận về một sản phẩm trên nền tảng Youtube. Từ đó, áp dụng các mô hình học máy hiện đại để phân loại cảm xúc (emotion classification) các bình luận của người dùng Youtube về sản phẩm bằng cách phân loại các bình luận theo ba loại cảm xúc: tích cực (positive), tiêu cực (negative), trung tính (neutral)
+
+**Đánh giá mô hình: Dựa vào 4 thông số bao gồm: accuracy, precision, recall, F1-score (mong muốn tối thiếu 75%)**
