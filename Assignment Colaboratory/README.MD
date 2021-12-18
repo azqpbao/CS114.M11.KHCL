@@ -3,7 +3,7 @@
 - Dữ liệu train: https://cs.uit.edu.vn/data2.txt
 - Dữ liệu test: https://cs.uit.edu.vn/data3.txt
 - Dữ liệu test: https://cs.uit.edu.vn/data4.txt
-- [x] [PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT](https://github.com/azqpbao/CS114.M11.KHCL/blob/main/Assignment%20Colaboratory/Lab1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sPh4Z1gnEJHe7nzPJZ0j2Sfueu1ZfaZb)
+- [x] [PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT](https://github.com/azqpbao/CS114.M11.KHCL/blob/main/Assignment%20Colaboratory/Lab1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Un7DmGD4ADG3gfq6QHCrLlfQ91DGk6e1)
 
 # Bài tập colab số 02. sklearn hand-written digits recognition
 
@@ -20,4 +20,4 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 3. Nếu không tốt thì lý do tại sao?
 4. Nếu tốt thì tiếp theo có thể dùng model digits recognition này vào các bài toán phức tạp hơn như nhận dạng biển số nhà không?
 
- - [x] [RECOGNIZING HAND-WRITTEN DIGITS](https://github.com/azqpbao/CS114.M11.KHCL/blob/main/Assignment%20Colaboratory/Lab2.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Un7DmGD4ADG3gfq6QHCrLlfQ91DGk6e1)
+ - [x] [RECOGNIZING HAND-WRITTEN DIGITS](https://github.com/azqpbao/CS114.M11.KHCL/blob/main/Assignment%20Colaboratory/Lab2.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sPh4Z1gnEJHe7nzPJZ0j2Sfueu1ZfaZb)
