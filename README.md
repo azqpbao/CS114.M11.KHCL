@@ -24,8 +24,7 @@
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.M11.KHCL
 * **Năm học:** HK1 (2021 - 2022)
-* **Giảng viên**: Lê Đình Duy 
-                  Phạm Nguyễn Trường An
+* **Giảng viên**: Lê Đình Duy & Phạm Nguyễn Trường An
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** 
