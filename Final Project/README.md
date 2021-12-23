@@ -12,7 +12,7 @@
   - Dùng để nhận diện 1 loại trái cây nào đó mà ai đó tình cờ bắt gặp và chưa từng thấy khi đi du lịch hoặc đâu đó
 ## 2. Mô tả bài toán:
   - Input: Hình ảnh gồm 1 loại trái cây bất kì.
-  - Output: 1 dòng text chưa tên của loại trái cây đó.
+  - Output: 1 dòng text chứa tên của loại trái cây đó.
 ## 3. Mô tả về bộ dữ liệu:
   - Thu thập dữ liệu:
     - Dữ liệu là yếu tố quan trọng nhất và cũng là vấn đề mà chúng ta cần quan tâm nhất. Trong quá trình xây dựng một hệ thống phân loại trái cây, bước chuẩn bị và tiền xử lý dữ liệu quyết định tới thành bại của hệ thống hơn cả.
