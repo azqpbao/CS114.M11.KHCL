@@ -1,5 +1,6 @@
 <h1 align="center"><b>ĐỀ TÀI: PHÂN LOẠI TRÁI CÂY </b></h>
 <h1 align="center"><b>LỚP: CS114.M11.KHCL</b></h>
+
 **Danh sách thành viên trong nhóm DSC:**
 + Lê Đình Đức - 19521372
 + Phan Anh Lộc - 19521766
