@@ -9,7 +9,7 @@
 2. Phan Anh Lộc - 19521766
 3. Lưu Anh Dũng - 19521392
 ## 1. Ứng dụng:
-  - Dùng để nhận diện 1 loại trái cây nào đó mà ai đó tình cờ bắt gặp và chưa từng thấy khi đi du lịch
+  - Dùng để nhận diện 1 loại trái cây nào đó mà ai đó tình cờ bắt gặp và chưa từng thấy khi đi du lịch hoặc đâu đó
 ## 2. Mô tả bài toán:
   - Input: Hình ảnh gồm 1 loại trái cây bất kì.
   - Output: 1 dòng text chưa tên của loại trái cây đó.
