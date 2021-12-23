@@ -1,4 +1,4 @@
-<h1 align="center"><b>ĐỀ TÀI: NHẬN DẠNG CÁC LOẠI TRÁI CÂY PHỔ BIẾN Ở VIỆT NAM</b></h>
+<h1 align="center"><b>ĐỀ TÀI: PHÂN LOẠI TRÁI CÂY PHỔ BIẾN Ở VIỆT NAM</b></h>
 <h1 align="center"><b>LỚP: CS114.M11.KHCL</b></h>
 
 ## Giảng viên:
