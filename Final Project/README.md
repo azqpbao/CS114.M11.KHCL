@@ -22,7 +22,7 @@
   * Người dịch
   * Tải bản
 
-# **3.Mô tả dữ liệu""
+# **3.Mô tả dữ liệu**
 * **Thu nhập dữ liệu:**
   * Bộ test: Khoảng 400 ảnh bìa sách được chụp từ camera
   * Bộ train + validation: Dự tính khoảng 8000 ảnh bìa sách được crawl từ nhiều nguồn khác nhau trên mạng
