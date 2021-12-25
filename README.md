@@ -27,8 +27,8 @@
 * **Giảng viên**: Lê Đình Duy & Phạm Nguyễn Trường An
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** 
-* **Thư mục:** 
+* **Tên đồ án: Số hóa tủ sách** 
+* **Thư mục: [Final Project](https://github.com/azqpbao/CS114.M11.KHCL/tree/main/Final%20Project)** 
 
 <!-- Footer -->
 <p align='center'>Copyright © 2021 - Phan Anh Lộc</p>
