@@ -12,8 +12,8 @@
  
 # **2.Mô tả bài toán**
 * **Bối cảnh ứng dụng:** Có thể giải quyết được việc thay vì thao tác nhập tay để lưu thông tin của quyển sách ta có thể đọc từ ảnh chụp.
-* **Input: Ảnh chụp bìa 1 cuốn sách từ camera
-* **Output: 1 file csv gồm các trường dữ liệu sau:
+* **Input:** Ảnh chụp bìa 1 cuốn sách từ camera
+* **Output:** 1 file csv gồm các trường dữ liệu sau:
   * Tên file
   * Tên cuốn sách
   * Tên tác giả
