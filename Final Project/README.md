@@ -5,7 +5,8 @@
 * **Giảng viên:**
   * Lê Đình Duy
   * Phạm Nguyễn Trường An
-* **Thành viên nhóm:**
+<!-- Main -->
+* ** Thành viên nhóm:
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 19521372      | Lê Đình Đức            |Nhóm trưởng|[DucDinh05](https://github.com/DucDinh05)                |19521372@gm.uit.edu.vn   |
