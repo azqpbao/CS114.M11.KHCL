@@ -2,7 +2,7 @@
 <h1 align="center"><b>LỚP: CS114.M11.KHCL</b></h>
 
 # **1.Giới thiệu**
-* **Giảng viên:**
+# Giảng viên:**
   * Lê Đình Duy
   * Phạm Nguyễn Trường An
 <!-- Main -->
