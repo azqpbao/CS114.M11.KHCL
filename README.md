@@ -13,7 +13,7 @@
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 19521372      | Lê Đình Đức            |Nhóm trưởng|[DucDinh05](https://github.com/DucDinh05)                |19521372@gm.uit.edu.vn   |
-| 2      | 19521766      | Phn Anh Lộc            |Thành viên |[azqpbao](https://github.com/azqpbao)                    |19521766@gm.uit.edu.vn   |
+| 2      | 19521766      | Phan Anh Lộc            |Thành viên |[azqpbao](https://github.com/azqpbao)                    |19521766@gm.uit.edu.vn   |
 | 3      | 19521392      | Lưu Anh Dũng           |Thành viên |[anhdungbmt2001](https://github.com/anhdungbmt2001)      |19521392@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU NHÓM
