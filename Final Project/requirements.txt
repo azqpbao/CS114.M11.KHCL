@@ -1,2 +1,0 @@
-craft_text_detector
-vietocr==0.3.5
