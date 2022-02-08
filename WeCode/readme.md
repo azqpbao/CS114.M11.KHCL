@@ -45,7 +45,7 @@
     * Training data: 6269 labels
     * Validation data: 1000 labels
  * Với model VietOCR thì nhóm để chia train/val theo tỉ lệ 80/20.
- * Đối với việc đánh giá thì em dành những ảnh chụp thực tế chưa dán nhãn cả phần VietOCR và YOLO chia làm 3 phần: easy(106), medium(147), hard(71)
+ * Đối với việc đánh giá thì nhóm dành những ảnh chụp thực tế chưa dán nhãn cả phần VietOCR và YOLO gồm 234 tấm ảnh
  ## **4.Data:**
  * Data YOLO: https://drive.google.com/drive/folders/1aHMmGXyXRp35Snn0jwMDmhnt6c5Z7Fl_?usp=sharing
  * Data OCR: 
