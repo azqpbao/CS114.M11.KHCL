@@ -6,7 +6,7 @@
     * [Nhà xuất bản ĐHQG-TPHCM](https://vnuhcmpress.edu.vn/)
     * ...
   * 22954 dòng text được cắt ra từ chính những sách đã thu thập được.
-  * 100000 dòng text được lấy từ github VietOCR.
+  * 100000 dòng text được lấy từ github VietOCR (Do có quá nhiều ảnh nên nhóm chỉ up lên 25000/100000 tấm demo, nhóm sẽ up file nén rar nếu thầy muốn xem toàn bộ 100k tấm)
 
 ### **3.2 Dán nhãn dữ liệu**
   * 7269 ảnh bìa sách phục vụ train model YOLO ([link dán nhãn](http://makesense.ai/))
@@ -40,7 +40,7 @@
   * Lưu kết quả:
     * Thêm vào dataframe và lưu dưới dạng file csv.
 
-### **3.4 Phân chia (split) - train/dev/test**
+### **3.4 Phân chia (split)**
  * Với model YOLOv5 
     * Training data: 6269 labels
     * Validation data: 1000 labels
@@ -48,4 +48,5 @@
  * Đối với việc đánh giá thì nhóm dành những ảnh chụp thực tế chưa dán nhãn cả phần VietOCR và YOLO gồm 234 tấm ảnh
  ## **4.Data:**
  * Data YOLO: https://drive.google.com/drive/folders/1aHMmGXyXRp35Snn0jwMDmhnt6c5Z7Fl_?usp=sharing
- * Data OCR: 
+ * Data OCR: https://drive.google.com/drive/folders/1k-fcbl1xsN5XaAv0BE6mitnINXoF-h7J?usp=sharing
+ * Data đánh giá model (234 tấm): https://drive.google.com/drive/folders/1wNWmA_LfoPS_364SvuBX9kUdwnB4FdQH?usp=sharing
